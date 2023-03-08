@@ -1,5 +1,5 @@
 # Description
-* Choose which car you want.
+Choose which car you want.
 # Built with
 * HTML
 * CSS
