@@ -1,1 +1,6 @@
-# VENTA_COCHES-Proyecto-
+# Description
+* Choose which car you want.
+# Built with
+* HTML
+* CSS
+* JavaScript
